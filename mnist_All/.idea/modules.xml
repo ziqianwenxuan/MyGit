@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Mnist_Train_Show/.idea/Mnist_Train_Show.iml" filepath="$PROJECT_DIR$/../Mnist_Train_Show/.idea/Mnist_Train_Show.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tensorflow/.idea/Tensorflow.iml" filepath="$PROJECT_DIR$/../Tensorflow/.idea/Tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mnist and step/.idea/mnist and step.iml" filepath="$PROJECT_DIR$/../mnist and step/.idea/mnist and step.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mnist_All.iml" filepath="$PROJECT_DIR$/.idea/mnist_All.iml" />
+    </modules>
+  </component>
+</project>
